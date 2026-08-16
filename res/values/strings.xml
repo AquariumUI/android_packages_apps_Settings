@@ -13793,6 +13793,10 @@
     <string name="lockscreen_double_line_clock_summary">Clock size changes according to lock screen content</string>
     <!-- Lockscreen dynamic clock toggle [CHAR LIMIT=60] -->
     <string name="lockscreen_double_line_clock_setting_toggle">Dynamic clock</string>
+    <!-- Lockscreen carrier text summary [CHAR LIMIT=NONE] -->
+    <string name="lockscreen_carrier_text_summary">Show carrier name on the lock screen</string>
+    <!-- Lockscreen carrier text toggle [CHAR LIMIT=60] -->
+    <string name="lockscreen_carrier_text_setting_toggle">Show carrier name</string>
     <!-- Lock screen shortcuts preference [CHAR LIMIT=60] -->
     <string name="lockscreen_quick_affordances_title">Shortcuts</string>
     <!-- Summary for the lock screen button preference [CHAR LIMIT=60] -->

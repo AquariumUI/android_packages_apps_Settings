@@ -5496,6 +5496,8 @@
     <string name="lockscreen_trivial_disabled_controls_summary" msgid="7593626010580689155">"Чтобы использовать эту функцию, включите параметр \"Показывать виджеты управления устройством\""</string>
     <string name="lockscreen_double_line_clock_summary" msgid="4109235686687860393">"Размер часов меняется в зависимости от контента на заблокированном экране"</string>
     <string name="lockscreen_double_line_clock_setting_toggle" msgid="802271087416091548">"Динамичный циферблат"</string>
+    <string name="lockscreen_carrier_text_summary" msgid="4109235686687860394">"Показывать название оператора на заблокированном экране"</string>
+    <string name="lockscreen_carrier_text_setting_toggle" msgid="802271087416091549">"Показывать оператора"</string>
     <string name="lockscreen_quick_affordances_title" msgid="8615741551327565793">"Быстрые действия"</string>
     <plurals name="lockscreen_quick_affordances_summary" formatted="false" msgid="4225396036524703997">
       <item quantity="one"><xliff:g id="FIRST_1">%1$s</xliff:g>, <xliff:g id="SECOND">%2$s</xliff:g></item>

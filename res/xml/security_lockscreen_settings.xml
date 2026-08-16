@@ -94,6 +94,12 @@
             android:title="@string/lockscreen_double_line_clock_setting_toggle"
             android:summary="@string/lockscreen_double_line_clock_summary"
             settings:controller="com.android.settings.display.LockscreenClockPreferenceController" />
+
+        <SwitchPreferenceCompat
+            android:key="show_lockscreen_carrier_text"
+            android:title="@string/lockscreen_carrier_text_setting_toggle"
+            android:summary="@string/lockscreen_carrier_text_summary"
+            settings:controller="com.android.settings.display.CarrierTextPreferenceController" />
     </PreferenceCategory>
 
     <PreferenceCategory
