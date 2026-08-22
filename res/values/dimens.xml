@@ -562,4 +562,6 @@
     <dimen name="bluetooth_battery_indicator_battery_meter_height">16dp</dimen>
     <dimen name="bluetooth_battery_indicator_charging_icon_width">12dp</dimen>
     <dimen name="bluetooth_battery_indicator_charging_icon_height">16dp</dimen>
+
+    <dimen name="settings_header_corner_radius">20dp</dimen>
 </resources>
